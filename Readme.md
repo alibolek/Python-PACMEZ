@@ -2,7 +2,7 @@
 
 ## What is this?
 
-	Pacmez is basic 2D game created with python tkinter library.
+	Pacmez is basic 2D game created with python turtle library.
 
 ## How to play?
 

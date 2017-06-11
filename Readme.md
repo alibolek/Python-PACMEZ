@@ -11,7 +11,7 @@
 	* Open terminal here
 	* Execute this command:
 
-		`~$ python3 pacmez.py`
+		` ~$ python3 pacmez.py `
 
 	*Choose level diificulty
 	*Enjoy it!

@@ -13,7 +13,7 @@
 
 		` ~$ python3 pacmez.py `
 
-	*Choose level diificulty
+	*Choose level difficulty
 	*Enjoy it!
 
 ## Contributors
